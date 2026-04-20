@@ -101,7 +101,7 @@ ________________________________________________________________________________
 &nbsp;
 
 &nbsp;
-Added automatic movies/series name, plot on your native language, grammatic, wrap from tmdb (need API key from Gemini).
+Added automatic movies/series name, plot TRANSLATE on your native language, grammatic, wrap from tmdb (need API key from Gemini).
 Mpv.conf file updated for better subtitle look and compatability.
 Tested on 1920x1080 resolution, but i think it also work good on others resolutions.
 
