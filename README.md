@@ -19,7 +19,7 @@
   <font size="4">
     Only Users Who Help With Donations. Goal is 100$ (Now: 12.49$)
     <br><br>
-    If you are interesting for this ➡️ e-mail: $\Large \color{red}{\textbf{NENAD89posao@GMAIL.COM}}$
+    If you are interesting for this ➡️ e-mail: $\Large \color{red}{\textbf{NENAD89POSAO@GMAIL.COM}}$
   </font>
 </p>
   
